@@ -26,4 +26,4 @@ A library project built with MongoDB and Express, with a customized front-end to
 
 ---
 
-> Every line of code is art 🎨
+> Every line in code is art 🎨
