@@ -12,12 +12,11 @@ Hi! I'm **Mohammed**, a passionate **Front-End** and **Full-Stack** web develope
 ### 🔹 [Sertie](https://sertie.netlify.app/)
 A clean and simple CV builder that helps you create professional, ATS-friendly resumes and download them as PDF.
 
-### 🔹 Maktabat Al-Salaf
+### 🔹 [Maktabat Al-Salaf](https://salaf-library.netlify.app)
 A library project built with MongoDB and Express, with a customized front-end to browse and manage books.
 
 ## 📱 Connect with Me
 - [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Moha_programmer)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/bestOne321)
 
 ---
 
